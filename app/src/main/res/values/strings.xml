@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+    <string name="press">Press to start writing text</string>
+    <string name="title_activity_record">Add new day</string>
+    <string name="title">Enter diary title</string>
+    <string name="description">Enter day description</string>
+    <string name="feel">How do you feel?</string>
+    <string name="error_no_title">Diary title is empty!</string>
+    <string name="error_no_description">Diary content is empty!</string>
+    <string name="error_no_feeling">Feeling is empty!</string>
+    <string-array name="smile_list">
+        <item>happy</item>
+        <item>cool</item>
+        <item>in love</item>
+        <item>confused</item>
+        <item>crying</item>
+        <item>tongue</item>
+        <item>kiss</item>
+    </string-array>
+</resources>
